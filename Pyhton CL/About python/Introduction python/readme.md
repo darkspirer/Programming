@@ -14,4 +14,6 @@ Result: no separate file, runs slower.
 
 Example:python and javascript
 
-When learning Python, we will study it on the Programiz website rather than downloading it to the desktop.
+When learning Python, we will study it on the [Programiz](https://www.programiz.com/python-programming/online-compiler/) website rather than downloading it to the desktop.
+
+We will study the theoretical knowledge in About Python and learn the practical exercises from that [book](https://uniwork.buxdu.uz/resurs/21352_2_65D77B7B9DD95C36F22F90F3BEF95F5A76A0DDF7.pdf), solving the example codes in Python Codes.
