@@ -13,3 +13,5 @@ The code is read and executed line by line.
 Result: no separate file, runs slower.
 
 Example:python and javascript
+
+When learning Python, we will study it on the Programiz website rather than downloading it to the desktop.
