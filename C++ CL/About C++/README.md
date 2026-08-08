@@ -3,13 +3,6 @@
 
 
 ## Certification 
-C programming 
-- Entry - CLE-10-xx
-- Associate - CLA-11-xx
-- Professional - CPE-20-xx
 
-C++ programming
-- Entry - CPE-20-xx
-- Associate - CPA-21-xx
-- Professional - CPP-22-xx
 
+<img width="3897" height="1408" alt="image" src="https://github.com/user-attachments/assets/32b100d9-9e8c-4f75-9471-95e821ff7767" />
