@@ -1,5 +1,10 @@
 # About python 
-Python certificate:  https://pythoninstitute.org/certification/pcep-certification-entry-level/  and  https://pythoninstitute.org/
+### Python certificate:  
+
+
+<img width="1200" height="253" alt="image" src="https://github.com/user-attachments/assets/5d42de03-87ed-4338-9290-6d474a689345" />
+
+
 Computer languages 
 - compilation   
 The code is converted into machine language all at once.
